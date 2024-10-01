@@ -54,5 +54,5 @@ To run this project locally, follow these steps:
 ## 📞 Contact
 For any queries, feel free to reach out:
 
-[LinkedIn](https://linkedin.com/in/mayank_yadv)
+[LinkedIn](https://linkedin.com/in/mayankyadv)
   
